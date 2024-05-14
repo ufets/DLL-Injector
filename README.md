@@ -12,3 +12,5 @@ where:
 path_to_dll is full path to payload.dll
 <br>
 and pid is target process id
+
+ONLY FOR TESTS, DON'T USE IT IN HARMFUL ACTIVITIES
